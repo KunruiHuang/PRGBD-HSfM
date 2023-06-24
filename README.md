@@ -61,8 +61,9 @@ Run keyframe extractor
 ```bash
 ./build/src/exe/colmap keyframe --project_path=./config/keyframe.ini
 ```
+
 ## sample_data
-Test data can be downloaded here:[Test Data Link](https://github.com/colmap/colmap). 
+Test data can be downloaded here:[Test Data Link](https://pan.baidu.com/s/1zcr8Pxj4ROE4hwL4fXjfSg)(password:um0i). 
 ### Feature extraction 
 We use the same method to extract SIFT feature points from the image, and simultaneously store the depth information of each feature point in the database.
 
